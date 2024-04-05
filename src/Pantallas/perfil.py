@@ -1,6 +1,6 @@
 import PySimpleGUI as sg
 import Menu_Inicio_Juego as menu
-from src.Consultas import consultas_usuarios 
+from Consultas import consultas_usuarios 
 
 
 sg.theme('Python')
